@@ -1,1 +1,2 @@
-var yourArray = {'Ekta', 18 , true , 'Mishra' , 11};
+const yourArray = ['Ekta', 18 , true , null , undefined];
+console.log(yourArray);
